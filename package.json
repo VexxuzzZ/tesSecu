@@ -1,0 +1,20 @@
+{
+  "name": "Base Vanegega",
+  "version": "Base je",
+  "main": "Xangel.js",
+  "scripts": {
+    "start": "node Xangel.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:Bealllevey62/Tredict-baileys",
+    "crypto": "^1.0.1",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.7",
+    "node-telegram-bot-api": "^0.64.0",
+    "pino": "^9.6.0"
+  },
+  "keywords": [],
+  "author": "Xangel",
+  "license": "ISC",
+  "description": "Xangel ganteng dan tampan"
+}
